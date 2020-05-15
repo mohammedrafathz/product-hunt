@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "https://ph-files.imgix.net/a881a4b6-0e7e-4226-8a71-080828607b2a?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
+        "title": "Product - 1",
+        "description": "product 1 description in some random placehodler text.",
+        "voteCount": 5
+    },
+    {
+        "id": 2,
+        "image": "https://ph-files.imgix.net/67afed64-9c57-4f9e-aba5-40ad7fbcadfb?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
+        "title": "Product - 2",
+        "description": "product 2 description in some random placehodler text.",
+        "voteCount": 15
+    },
+    {
+        "id": 3,
+        "image": "https://ph-files.imgix.net/cd4a0d8a-5d22-4d07-80f9-14a39e3ac9f4?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
+        "title": "Product - 3",
+        "description": "product 3 description in some random placehodler text.",
+        "voteCount": 25
+    }
+]

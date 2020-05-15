@@ -1,0 +1,39 @@
+body{
+    background-color: #f3f3f3;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.brand-logo{
+    width: 60px;
+    height: 60px;
+    background-color: #da552f;
+    border-radius: 50%;
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-left: 18px;
+    font-family: "Roboto";
+}
+
+.centered{
+    margin: 0 auto;
+}
+
+.up-vote{
+    background-color: white;
+    border: 1px solid black;
+    padding: 14px 20px;
+}
+
+.arrow-icon{
+    width: 20px;
+    height: 20px;
+}
+
+.info{
+    font-size: 12px;
+}
